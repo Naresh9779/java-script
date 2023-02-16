@@ -11,7 +11,7 @@ case 1:
             console.log(" Go To Home");
             break;
             default:
-                console.log(" Wrong InPUT !!!!");
+                console.log(" Wrong InPUT Java !!!!");
 
 
 }
